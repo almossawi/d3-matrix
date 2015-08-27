@@ -1,0 +1,299 @@
+Peter Browne,USA,-8
+Thomas Browne,USA,-8
+Claude Buffier,USA,-8
+Richard Burthogge,USA,-8
+Joseph Butler,USA,-8
+Gershom Carmichael,USA,-8
+Margaret Cavendish,USA,-8
+Geraud de Cordemoy,USA,-8
+Jean-Pierre de Crousaz,USA,-8
+Ralph Cudworth,USA,-8
+Nathaniel Culverwel,USA,-8
+Richard Cumberland,USA,-8
+Elisabeth of Bohemia,USA,-8
+Samuel Bold,USA,-8
+Robert Boyle,USA,-8
+Robert Joseph Pothier,USA,-8
+Samuel Johnson,USA,-8
+Kaibara Ekiken,USA,-8
+Johannes Clauberg,USA,-8
+Catherine Cockburn,USA,-8
+Arthur Collier,USA,-8
+Anthony Collins,USA,-8
+Anne Finch Conway,USA,-8
+Walter Charleton,USA,-8
+William Chillingworth,USA,-8
+Samuel Clarke,USA,-8
+John Toland,USA,-8
+George Turnball,USA,-8
+Giambattista Vico,USA,-8
+Voltaire,USA,-8
+Wang Fuzhi,USA,-8
+Firmin Abauzit,USA,-8
+Yves Marie André,USA,-8
+Antoine Arnauld,USA,-8
+John Locke,USA,-8
+Nicolas Malebranche,USA,-8
+John Norris,USA,-8
+Ogyū Sorai,USA,-8
+Samuel Pufendorf,USA,-8
+John Ray,USA,-8
+Pierre-Sylvain Regis,USA,-8
+Jacques Rohault,USA,-8
+Anna van Schurman,USA,-8
+John Sergeant,USA,-8
+Baruch Spinoza,USA,-8
+James Dalrymple,USA,-8
+Edward Stillingfleet,USA,-8
+Gabrielle Suchon,USA,-8
+Kumazawa Banzan,USA,-8
+Louis de La Forge,USA,-8
+Robert Desgabets,USA,-8
+George Berkeley,USA,-8
+Kenelm Digby,USA,-8
+Humphry Ditton,USA,-8
+Mary Astell,USA,-8
+John Balguy,USA,-8
+Emanuel Swedenborg,USA,-8
+Algernon Sydney,USA,-8
+Christian Thomasius,USA,-8
+Matthew Tindal,USA,-8
+Jean Le Clerc,USA,-8
+Antoine Le Grand,USA,-8
+Gottfried Leibniz,USA,-8
+William Law,USA,-8
+Bertrand Russell,USA,-8
+Baron de Montesquieu,USA,-8
+Henry More,USA,-8
+Isaac Newton,USA,-8
+Blaise Pascal,USA,-8
+Michelangelo Fardella,USA,-8
+Simon Foucher,USA,-8
+John Gay,USA,-8
+Arnold Geulincx,USA,-8
+Joseph Glanvill,USA,-8
+Ronnie Corbett,USA,-8
+Guido Grandi,USA,-8
+James Harrington,USA,-8
+Huang Zongxi,USA,-8
+Pierre Daniel Huet,USA,-8
+Francis Hutcheson,USA,-8
+Christiaan Huygens,USA,-8
+Ito Jinsai,USA,-8
+François Bernier,USA,-8
+Lord Kames,USA,-8
+John Desaguliers,USA,-8
+John Allen,USA,-6
+James Beattie,USA,-6
+Charles Bell,USA,-6
+Thomas Belsham,USA,-6
+William Belsham,USA,-6
+Friedrich Beneke,USA,-6
+Jeremy Bentham,USA,-6
+William Blackstone,USA,-6
+Hugh Blair,USA,-6
+William Blake,USA,-6
+Robert Blakey,USA,-6
+Bernard Bolzano,USA,-6
+Charles Bonnet,USA,-6
+Rudjer Boscovich,USA,-6
+David Brewster,USA,-6
+Henry Brougham,USA,-6
+Motoori Norinaga,USA,-6
+Novalis,USA,-6
+Lorenz Oken,USA,-6
+William Paley,USA,-6
+Thomas Arnold,USA,-6
+Robert Aspland,USA,-6
+Samuel Bailey,USA,-6
+Francesco Algarotti,USA,-6
+Benjamin Whichcote,USA,-6
+Hadi Sabzevari,USA,-6
+Friedrich Schiller,USA,-6
+Jan Sniadecki,USA,-6
+Dugald Stewart,USA,-6
+William Thompson,USA,-6
+Tominaga Nakamoto,USA,-6
+Heinrich von Kleist,USA,-6
+Hugo Kołłątaj,USA,-6
+Pierre Bayle,USA,-6
+Richard Bentley,USA,-6
+Hugh Binning,USA,-6
+John Austin,USA,-6
+Pierre Azais,USA,-6
+Charles Babbage,USA,-6
+John Ballantyne,USA,-6
+Christian Wolff,USA,-6
+William Wollaston,USA,-6
+Yen Yuan,USA,-6
+Yi Kan,USA,-6
+Archibald Alison,USA,-6
+John Adams,USA,-6
+Anton Wilhelm Amo,USA,-6
+Thomas Brown,CANADA,-5
+Robert Buchanan,CANADA,-5
+William Burdon,CANADA,-5
+Edmund Burke,CANADA,-5
+George Campbell,CANADA,-5
+Thomas Carlyle,CANADA,-5
+Auguste Comte,CANADA,-5
+Marquis de Condorcet,CANADA,-5
+Benjamin Constant,CANADA,-5
+Victor Cousin,CANADA,-5
+Johann Ulrich von Cramer,CANADA,-5
+Jonathan Edwards,LATAM,-3
+Adam Ferguson,LATAM,-3
+Johann Fichte,LATAM,-3
+Benjamin Franklin,LATAM,-3
+Émilie du Châtelet,LATAM,-3
+Jakob Friedrich Fries,LATAM,-3
+David Fordyce,LATAM,-3
+Charles Fourier,LATAM,-3
+Joseph de Maistre,LATAM,-3
+Emerich de Vattel,EMEA,2
+Denis Diderot,LATAM,-3
+William Hazlitt,EMEA,0
+John Herschel,EMEA,0
+Samuel Heywood,EMEA,0
+Laurens Perseus Hickok,EMEA,0
+Thomas Hodgskin,EMEA,0
+Martin Knutzen,EMEA,0
+Nachman Krochmal,EMEA,0
+Josef Hoëné-Wronski,EMEA,0
+Baron d'Holbach,EMEA,0
+Alexander Gerard,EMEA,0
+Thomas Gisbourne,EMEA,0
+William Godwin,EMEA,0
+Friedrich Hölderlin,EMEA,0
+Johann Georg Hamann,EMEA,0
+William Hamilton,EMEA,0
+David Hartley,EMEA,0
+Julius Charles Hare,EMEA,0
+Mary Hays,EMEA,0
+Francis Haywood,EMEA,0
+John Hoppus,EMEA,0
+Immanuel Kant,EMEA,0
+George Grote,EMEA,0
+David Hume,EMEA,0
+Friedrich Jacobi,EMEA,0
+Wilhelm Krug,EMEA,1
+Lamennais,EMEA,1
+Pierre Leroux,EMEA,1
+Carolus Linnaeus,EMEA,1
+Maine de Biran,EMEA,1
+Moses Mendelssohn,EMEA,1
+James Mill,EMEA,1
+John Millar,EMEA,1
+Lord Monboddo,EMEA,1
+James Oswald,EMEA,1
+Friedrich von Schlegel,EMEA,2
+Abraham Tucker,EMEA,2
+Tai Chen,EMEA,2
+Friedrich Schelling,EMEA,2
+Thomas Paine,EMEA,2
+Thomas Percival,EMEA,2
+Issac de Pinto,EMEA,2
+David Ricardo,EMEA,2
+Marquis de Sade,EMEA,2
+Richard Price,EMEA,2
+Thomas Reid,EMEA,2
+Adam Smith,EMEA,2
+Hryhori Skovoroda,EMEA,2
+Joseph Priestley,EMEA,2
+Daniel Raymond,EMEA,2
+Karl Leonhard Reinhold,EMEA,2
+Sri Aurobindo,APAC,6
+Richard Avenarius,APAC,6
+Gaston Bachelard,APAC,6
+Maurice Blondel,APAC,6
+Mikhail Bakhtin,APAC,6
+Bruno Bauer,APAC,6
+David Baumgardt,APAC,6
+Oskar Becker,APAC,6
+Vissarion Belinsky,APAC,6
+Alexander Bain,APAC,6
+Karl Barth,APAC,6
+Georges Bataille,APAC,6
+Julien Benda,APAC,6
+Walter Benjamin,APAC,6
+Nikolai Berdyaev,APAC,6
+Henri Bergson,APAC,6
+Eduard Bernstein,APAC,6
+Nathan Birnbaum,APAC,6
+Brand Blanshard,APAC,6
+Ernst Bloch,APAC,6
+Mikhail Bakunin,APAC,6
+Vauvenargues,APAC,6
+John Anderson,APAC,6
+Roberto Ardigò,APAC,6
+Samuel Alexander,APAC,6
+Henri-Frédéric Amiel,APAC,6
+Yü Cheng-hsieh,APAC,6
+Robert Adamson,APAC,6
+Kazimierz Ajdukiewicz,APAC,6
+William Whewell,APAC,6
+John Witherspoon,APAC,6
+Mary Wollstonecraft,APAC,6
+Cai Yuanpei,APAC,8
+Edward Caird,APAC,8
+Georg Cantor,APAC,8
+George Boas,APAC,8
+Mary Whiton Calkins,APAC,8
+Emile Boutroux,APAC,8
+Oets Kolk,APAC,8
+F. H. Bradley,APAC,8
+Constantin Brunner,APAC,8
+Emil Brunner,APAC,8
+Leon Brunschvicg,APAC,8
+Martin Buber,APAC,8
+Ludwig Büchner,APAC,8
+Rudolf Bultmann,APAC,8
+Franz Brentano,APAC,8
+Percy Williams Bridgman,APAC,8
+C. D. Broad,APAC,8
+Jacob Burckhardt,APAC,8
+Samuel Butler,APAC,8
+Alexander Bogdanov,APAC,8
+Niels Bohr,APAC,8
+Ludwig Boltzmann,APAC,8
+John Elof Boodin,APAC,8
+George Boole,APAC,8
+Bernard Bosanquet,APAC,8
+Rudolf Carnap,APAC,9
+August Cieszkowski,APAC,9
+Hermann Cohen,APAC,9
+John Cook Wilson,APAC,9
+John Abercrombie,APAC,9
+Lewis Carroll,APAC,9
+Paul Carus,APAC,9
+Ernst Cassirer,APAC,9
+Carlo Cattaneo,APAC,9
+Emile Chartier,APAC,9
+Leon Chwistek,APAC,9
+Francesco de Sanctis,APAC,10
+Louis Couturat,APAC,10
+Antoine Augustin Cournot,APAC,10
+Nikolay Danilevsky,APAC,10
+Charles Darwin,APAC,10
+Hans Cornelius,APAC,10
+Heinrich Czolbe,APAC,10
+Augustus De Morgan,APAC,10
+James Creighton,APAC,10
+Benedetto Croce,APAC,10
+Tadeusz Czezowski,APAC,10
+Juan Donoso Cortés,APAC,12
+Fyodor Dostoevsky,APAC,12
+Curt Ducasse,APAC,12
+Pierre Duhem,APAC,12
+Eugen Dühring,APAC,12
+Émile Durkheim,APAC,12
+Mary Baker Eddy,APAC,12
+Galvano Della Volpe,APAC,12
+Paul Deussen,APAC,12
+John Dewey,APAC,12
+Wilhelm Dilthey,APAC,12
+Hugo Dingler,APAC,12
+Albert Einstein,APAC,12
+George Eliot,APAC,12
+Friedrich Engels,APAC,12
+Richard Dedekind,APAC,12

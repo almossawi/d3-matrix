@@ -1,0 +1,220 @@
+@charset "UTF-8";
+
+a:active, a:visited, a {
+    border-bottom: 1px solid #d8d8d8;
+    color: #4b4b4b;
+    text-decoration: none;
+}
+
+a:hover {
+    border-bottom: 1px solid #868686;
+    text-decoration: none;
+}
+
+html {
+    font-size: 12px;
+}
+
+body {
+    background-color: #f4f1ec;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 10px;
+}
+
+p {
+    font-family: Georgia;
+    font-size: 1.4rem;
+    line-height: 1.5;
+    padding-top: 10px;
+}
+
+.matrix-details {
+    font-size: 1.2rem;
+    margin: 15px 0 28px 0;
+}
+
+svg {
+    border: 0px solid #d4d4d4;
+    font: 0.9rem 'Open Sans', sans-serif;
+    shape-rendering: crispEdges;
+}
+
+svg rect {
+    fill: #001632;
+}
+
+.container {
+    width: 90%;
+}
+
+.dsm {
+    margin: 10px 0 0 0;
+    height: 800px;
+}
+
+.dot rect {
+    fill: #d2e4ed;
+    opacity: 0.9;
+}
+
+.data-box {
+    background-color: #faf9f6;
+    border: 1px solid #ccc;
+    margin: 0;
+    min-height: 770px;
+    overflow: hidden;
+    padding: 12px;
+}
+
+.data-box .manager {
+    font-size: 2.2rem;
+}
+
+.data-box .notes {
+    font-size: 1rem;
+    margin: 10px 0 0 0;
+}
+
+.data-box div {
+    margin-top: 18px;
+}
+
+.data-box div.no-margin {
+    margin-top: 2px;
+}
+
+.EMEA {
+    color: #71a6ea;
+    fill: #71a6ea;
+}
+
+.USA {
+    color: #05b378;
+    fill: #05b378;
+}
+
+.CANADA {
+    color: #db4437;
+    fill: #db4437;
+}
+
+.APAC {
+    color: #f3a000;
+    fill: #f3a000;
+}
+
+.LATAM {
+    color: #ff8de6;
+    fill: #ff8de6;
+}
+
+.default-font {
+    font-size: 1.2rem;
+}
+
+.legend {
+    font-size: 1rem;
+    padding: 3px 0 8px 0;
+}
+
+.legend div {
+    border-radius: 0;
+    color: white;
+    display: inline;
+    margin: 0;
+    padding: 3px 5px 3px 5px;
+}
+
+.legend .EMEA {
+    background-color: #71a6ea;
+}
+
+.legend .USA {
+    background-color: #05b378;
+}
+
+.legend .CANADA {
+    background-color: #db4437;
+}
+
+.legend .APAC {
+    background-color: #f3a000;
+}
+
+.legend .LATAM {
+    background-color: #ff8de6;
+}
+
+.manager-combo-box {
+    margin: 20px 0 22px 0;
+    text-align: center;
+}
+
+.timezone-labels text {
+    font-size: 0.75rem;
+    stroke: none;
+}
+
+text.timezone-axis-description {
+    fill: black;
+    font-size: 1rem;
+    letter-spacing: 1px;
+    opacity: 0.3;
+    text-transform: uppercase;
+}
+
+text {
+    stroke: none;
+}
+
+.prose-first-paragraph {
+    padding-top: 20px;
+}
+
+.dot-rollover path {
+    fill: none;
+    pointer-events: all;
+    stroke: none;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2rem;
+    margin: 40px 0 10px 0;
+}
+
+.mg-histogram .mg-bar rect {
+    fill: #393939;
+}
+
+.mg-histogram .mg-bar rect.active {
+    fill: #4e4e4e;
+}
+
+.mg-barplot rect.mg-bar {
+    fill: #393939;
+}
+
+.mg-barplot rect.mg-bar.active {
+    fill: #757575;
+}
+
+.managers-team-across-timezones svg .mg-y-axis text {
+    font-size: 0.7rem;
+}
+
+.managers-team-across-timezones {
+    width: 100%;
+}
+
+.to-employee,
+.from-employee {
+    fill: black;
+    font-size: 1.1rem;
+}
+
+@media (max-width: 450px) {
+    .matrix-details, table {
+        font-size: 0.9rem;
+    }
+}
